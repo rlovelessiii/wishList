@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    $.getJSON('/json/list.json', getList);
+    $.getJSON('./json/list.json', getList);
 });
 
 function getList(data) {
