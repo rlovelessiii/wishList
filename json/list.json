@@ -31,6 +31,32 @@
         {
             "name": "Apple TV 4K (64 GB Preferred)",
             "url": "https://www.amazon.com/dp/B075NHCSS4/"
+        },
+        {
+            "name": "Apple AirPods Pro",
+            "url": "https://www.apple.com/shop/product/MWP22AM/A/airpods-pro"
+        },
+        {
+            "name": "WD Blue 3D NAND 1TB SSD - M.2",
+            "url": "https://www.amazon.com/dp/B073SB2MXT/"
+        },
+        {
+            "name": "WD Blue 3D NAND 1TB SSD - SATA III",
+            "url": "https://www.amazon.com/dp/B073SBQMCX/"
+        }
+    ],
+    "5": [
+        {
+            "name": "3D PLA Printer Filament - 1kg Wood",
+            "url": "https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B01092XXD4/"
+        },
+        {
+            "name": "3D PLA Printer Filament - 1kg (ANY COLOR)",
+            "url": "https://www.amazon.com/s?k=hatchbox+PLA+1.75"
+        },
+        {
+            "name": "Coffee Mug Warmer (Any)",
+            "url": "https://www.amazon.com/s?k=coffee+mug+warmer"
         }
     ]
 }
