@@ -1,10 +1,35 @@
 {
-    "list": [
+    "1": {
+        "name": "Creality Ender 5 Plus 3D Printer",
+        "url": "https://www.creality3d.shop/products/creality3d-ender-5-plus-3d-printer"
+    },
+    "2": [
         {
-            "1": {
-                "name": "Creality Ender 5 Plus 3D Printer",
-                "url": "https://www.creality3d.shop/products/creality3d-ender-5-plus-3d-printer"
-            }
+            "name": "Apple Magic Trackpad 2 (Space Grey Preferred)",
+            "url": "https://www.amazon.com/dp/B07BRF3ZQD/"
+        },
+        {
+            "name": "Logitech MX Master 3 Wireless Mouse (Graphite Preferred)",
+            "url": "https://www.amazon.com/dp/B07S395RWD/"
+        }
+    ],
+    "3": [
+        {
+            "name": "CanaKit Raspberry Pi 4 4GB Starter Kit",
+            "url": "https://www.amazon.com/dp/B07V5JTMV9/"
+        },
+        {
+            "name": "Xbox One Elite Series 2 Controller",
+            "url": "https://www.amazon.com/dp/B07SFKTLZM/"
+        },
+        {
+            "name": "Logitech G920 Driving Force Racing Wheel + Logitech G Driving Force Shifter Bundle",
+            "url": "https://www.amazon.com/dp/B016LI8SCG/"
+        }
+    ],
+    "4": [
+        {
+            "name": "Apple TV 4K (64 GB Preferred)",
+            "url": "https://www.amazon.com/dp/B075NHCSS4/"
         }
     ]
-}
