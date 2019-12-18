@@ -1,8 +1,10 @@
 {
-    "1": {
-        "name": "Creality Ender 5 Plus 3D Printer",
-        "url": "https://www.creality3d.shop/products/creality3d-ender-5-plus-3d-printer"
-    },
+    "1": [
+        {
+            "name": "Creality Ender 5 Plus 3D Printer",
+            "url": "https://www.creality3d.shop/products/creality3d-ender-5-plus-3d-printer"
+        }
+    ],
     "2": [
         {
             "name": "Apple Magic Trackpad 2 (Space Grey Preferred)",
